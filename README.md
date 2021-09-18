@@ -14,3 +14,4 @@ https://www.youtube.com/watch?v=LKlO8vLvUao&list=WL&index=7&t=161s
 
 Tech Stacks:
 React + Redux, Node, Express, MongoDB
+MERN Auth - Login with Email (JWT) + Google OAuth Authentication
